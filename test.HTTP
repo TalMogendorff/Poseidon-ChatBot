@@ -1,0 +1,7 @@
+POST http://localhost:3000/answer
+
+content-type: application/json
+
+{ 
+  "prompt":"Please give me the current weather in israel" 
+}
